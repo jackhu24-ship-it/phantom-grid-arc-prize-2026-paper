@@ -1,0 +1,9 @@
+{
+  "tournament": "ARC Prize 2026 (Paper Track)",
+  "architect": "Jack Hu (HU JIUN REN)",
+  "commander": "Xiaomi",
+  "status": "RATIFIED",
+  "vram_ceiling_gb": 50.0,
+  "zdr_residual_mb": 0.0,
+  "formal_proof": "Z3_VERIFIED_PASS"
+}

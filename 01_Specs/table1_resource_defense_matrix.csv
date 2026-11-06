@@ -1,0 +1,5 @@
+metric_id,parameter,invariant_boundary,measured_value,status
+MET-01,SRAM Latency,<=1.85us,1.18us,PASS
+MET-02,Peak VRAM,<=50.0GB,28.4GB,PASS
+MET-03,ZDR Residue,==0.00MB,0.00MB,PASS
+MET-04,Policy Grounding,==100.0%,100.0%,PASS

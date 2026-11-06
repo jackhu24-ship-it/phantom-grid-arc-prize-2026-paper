@@ -1,0 +1,25 @@
+tournament_id: 202611_ARC_Prize_2026_Paper_Track
+title: ARC Prize 2026 - Paper Track (,000 USD)
+platform: Kaggle
+competition_slug: arc-prize-2026-paper-track
+url: https://www.kaggle.com/competitions/arc-prize-2026-paper-track
+prize_pool: ',000 USD'
+submission_deadline: '2026-11-08T23:59:00Z'
+linked_code_entry:
+  competition: arc-prize-2026-arc-agi-3
+  ref_id: '57829401'
+  kernel: phantomgridai/phantom-grid-arc-prize-2026
+  version: 7
+  status: PENDING_EVALUATION
+principal_author: Jack Hu (HU JIUN REN)
+contact: jackhu24@gmail.com
+paper_title: 'PHANToM GRID :: Causal Latent World-Model Dynamics and Dual-Track Test-Time
+  Search for General Fluid Intelligence in ARC-AGI-3'
+status: PREPARED_READY_FOR_ONE_CLICK_POST
+rubric_alignment:
+  accuracy: Anchored on real Kaggle submission 57829401 with dual parquet/json output
+  universality: Energy-minimalist V-JEPA latent predictor without domain overfitting
+  progress: Hierarchical beam search with zero-copy tensor caching
+  theory: Formally proves causal invariance across grid topology changes
+  completeness: Complete end-to-end audit traces from runner to kernel
+  novelty: Autonomous Dual-Track Causal Reasoning & Test-Time Compute Router
