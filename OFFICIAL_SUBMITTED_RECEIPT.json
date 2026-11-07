@@ -1,0 +1,14 @@
+﻿{
+  "tournament_id": "202611_ARC_Prize_2026_Paper_Track",
+  "tournament_name": "ARC Prize 2026 - Paper Track ($50,000 USD)",
+  "platform": "Kaggle",
+  "submission_title": "PHANToM GRID :: Causal Latent World-Model Dynamics and Dual-Track Test-Time Search for General Fluid Intelligence in ARC-AGI-3",
+  "author": "Jack Hu (HU JIUN REN)",
+  "status": "OFFICIALLY_SUBMITTED_AND_VERIFIED",
+  "kaggle_submission_url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track/writeups/phantom-grid-causal-latent-world-model-dynamics",
+  "youtube_demo_url": "https://youtu.be/AvbN-upm91k",
+  "github_repository": "https://github.com/jackhu24-ship-it/phantom-grid-arc-prize-2026-paper",
+  "live_demo_url": "https://jackhu24-ship-it.github.io/phantom-grid-arc-prize-2026-paper/",
+  "submitted_at": "2026-11-07T08:56:11+08:00",
+  "verified_by_supreme_commander": "Jack Hu"
+}

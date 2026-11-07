@@ -1,8 +1,8 @@
-"""Live telemetry probe: Vultr Agent Rush Hackathon"""
+"""Live telemetry probe: ARC Prize Agent Rush Hackathon"""
 import json
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
-STATE = {"app": "202611_Vultr_Agent_Rush_Hackathon", "state": "ONLINE", "vram_gb": 12.4, "vram_limit_gb": 50, "zdr_residual_mb": 0.0}
+STATE = {"app": "202611_ARC Prize_Agent_Rush_Hackathon", "state": "ONLINE", "vram_gb": 12.4, "vram_limit_gb": 50, "zdr_residual_mb": 0.0}
 
 
 class H(BaseHTTPRequestHandler):

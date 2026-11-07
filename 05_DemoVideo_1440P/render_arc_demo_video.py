@@ -68,7 +68,7 @@ def get_audio_duration(audio_path: Path) -> float:
         return 8.0
 
 
-def render_vultr_showcase01_video():
+def render_arc_showcase01_video():
     tourney_root = Path(__file__).resolve().parent.parent
     html_path = tourney_root / "06_LiveApp" / "index.html"
     output_path = tourney_root / "05_DemoVideo_1440P" / "demo_video_1440p.mp4"
@@ -338,4 +338,4 @@ def render_vultr_showcase01_video():
 
 
 if __name__ == "__main__":
-    render_vultr_showcase01_video()
+    render_arc_showcase01_video()
